@@ -11,3 +11,8 @@ An example for how to craw all the links that contain "example.com" at www.examp
 ```
 $ python3 crawler.py www.example.com "example.com"
 ```
+
+To download this script:
+```
+$ git clone https://github.com/Leooliveoi/Simple_Link_Crawler
+```
